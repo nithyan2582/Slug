@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Backstage project GIT integrated with the docs
+  name: BackstageTechDocs
   description: Tech docs example integrated with the Backstage GIT repository
   annotations:
     github.com/project-slug: backstage/backstage
